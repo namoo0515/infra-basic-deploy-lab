@@ -1,1 +1,1 @@
-# infra-basic-deploy-lab-Public
+# infra-basic-deploy-lab
